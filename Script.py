@@ -33,8 +33,7 @@ class script(object):
 1. Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
-
-SONG_TXT ="""<b>SONG MODULE</b>
+     SONG_TXT = """<b>SONG MODULE</b>
 
 Song Download
 Song Download Module, For Those Who Love Music
